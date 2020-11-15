@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("this is HelloWorld Project");
+            Console.WriteLine("Changing");
             Console.WriteLine("First Commit");
             Console.ReadKey();
         }
