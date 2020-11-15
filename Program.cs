@@ -11,6 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("this is HelloWorld Project");
+            Console.WriteLine("First Commit");
             Console.ReadKey();
         }
     }
